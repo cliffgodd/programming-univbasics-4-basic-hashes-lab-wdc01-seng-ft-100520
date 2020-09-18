@@ -8,6 +8,7 @@ def my_hash
   my_hash = {
     name: "Justin", home: "Maryland"
   }
+  my_hash[name:]
   # return a valid hash with any key/value pair of your choice
 end
 
